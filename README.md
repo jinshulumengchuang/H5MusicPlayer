@@ -1,2 +1,2 @@
 # H5MusicPlayer
-Cross-device music player by html and js
+https://jinshulumengchuang.github.io/cmp.html

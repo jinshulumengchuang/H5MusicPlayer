@@ -1,2 +1,2 @@
 # H5MusicPlayer
-https://jinshulumengchuang.github.io/cmp.html
+https://jinshulumengchuang.github.io/hmp.html
